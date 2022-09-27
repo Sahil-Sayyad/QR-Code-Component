@@ -59,5 +59,5 @@ SOFTWARE.
 
 ## Acknowledgements
 
- - This Challenge by[Frontend Mentor](https://www.frontendmentor.io)  
+ - This Challenge by [Frontend Mentor](https://www.frontendmentor.io)  
 
